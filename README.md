@@ -4,9 +4,6 @@
 To understand customer purchasing behavior and identify customer characteristics associated with bike purchases to support customer segmentation and targeted marketing.
 
 ## Dataset Used
-- <a href="https://github.com/datawithgift/bike-purchase-analysis/blob/main/Bike-Purchase-Analysis.xlsx">Dataset</a>
-
-## Raw Data Used
 - <a href="https://github.com/datawithgift/bike-purchase-analysis/blob/main/Bike_Buyers_Raw_Data.xlsx">Raw Data</a>
 
 ## Questions
