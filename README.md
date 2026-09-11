@@ -1,4 +1,4 @@
-# Bike-Purchase-Analysis (with an Innteractive Excel Dashboard)
+# Bike-Purchase-Analysis (with an Interactive Excel Dashboard)
 
 ## Business Objective 
 To understand customer purchasing behavior and identify customer characteristics associated with bike purchases to support customer segmentation and targeted marketing.
