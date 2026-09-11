@@ -17,7 +17,9 @@ To understand customer purchasing behavior and identify customer characteristics
 -	Is bike purchasing behavior associated with gender?
 -	Which occupations have the highest number of bike buyers?
 -	Which region has the highest bike purchase rate?
--	Dashboard Interaction <img width="800" height="427" alt="BikePurchaseAnalysisDashboardInteraction-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/dae7a41e-e9f0-4310-a5a4-295bf42ae54c" />
+  
+## Dashboard Interaction 
+<img width="800" height="427" alt="BikePurchaseAnalysisDashboardInteraction-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/dae7a41e-e9f0-4310-a5a4-295bf42ae54c" />
 
 ## Data Cleaning & Analysis Process 
 
