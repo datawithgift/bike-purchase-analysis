@@ -6,6 +6,9 @@ To understand customer purchasing behavior and identify customer characteristics
 ## Dataset Used
 - <a href="https://github.com/datawithgift/bike-purchase-analysis/blob/main/Bike-Purchase-Analysis.xlsx">Dataset</a>
 
+## Raw Data Used
+- <a href="https://github.com/datawithgift/bike-purchase-analysis/blob/main/Bike_Buyers_Raw_Data.xlsx">Raw Data</a>
+
 ## Questions
 -	Which customer demographics are most associated with bike purchases?
 -	Which age group has the highest bike purchase rate?
