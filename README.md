@@ -65,7 +65,7 @@ Used the IFs function to create the age-group categories.
 - Professionals recorded the highest number of bike purchases among the occupations analyzed
 - North America recorded the highest number of bike buyers.
   
-## Recommendation 
+## Recommendations
 - Focus marketing efforts on customer groups with higher bike purchase activity.
 - Offer affordable bikes, discounts, or flexible payment options to attract more customers in this group.
 - Use commute distance to help identify and prioritize customers who are more likely to purchase bikes in future marketing campaigns.
