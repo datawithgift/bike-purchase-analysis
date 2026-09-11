@@ -14,7 +14,6 @@ To understand customer purchasing behavior and identify customer characteristics
 -	Is bike purchasing behavior associated with gender?
 -	Which occupations have the highest number of bike buyers?
 -	Which region has the highest bike purchase rate?
--	
 -	Dashboard interaction <a href="https://github.com/datawithgift/bike-purchase-analysis/blob/main/Bike%20Purchase%20Dashboard.PNG">View</a>
 
 ## Data Cleaning & Analysis Process 
@@ -34,12 +33,12 @@ To understand customer purchasing behavior and identify customer characteristics
 - Standardized Commute Distance values by changing 10+ Miles to 10 Miles+ to make the category clearer for analysis.
 
 3. Data Transformation
-- Created an ##Income Group column## to categorize customers based on income into:
+- Created an Income Group column to categorize customers based on income into:
 Low Income
 Middle Income
 High Income
 Used the IFs function to assign customers to the appropriate income group.
-- Created an ##Age Group column## to categorize customers into:
+- Created an Age Group column to categorize customers into:
 Young (<=34)
 Middle-aged (<=54)
 Old (>54)
