@@ -54,8 +54,7 @@ Used the IFs function to create the age-group categories.
 
 
 ## Dashboard 
-<img width="1277" height="432" alt="Bike Purchase Dashboard" src="https://github.com/user-attachments/assets/444cb658-ba9b-4f1c-aaa0-28233d73d617" />
- 
+<img width="1279" height="435" alt="Bike Purchase Dashboard" src="https://github.com/user-attachments/assets/374dd4e0-b0e6-4294-9bd3-78a93853e937" />
 
 ## Key Insights & Findings
 - Bike purchases where more common among male, middle-aged and lower-income customers, with purchasing patterns also varying by region and occupation.
@@ -65,7 +64,7 @@ Used the IFs function to create the age-group categories.
 - Male customers recorded a higher number of bike purchases than female customers.
 - Professionals recorded the highest number of bike purchases among the occupations analyzed
 - North America recorded the highest number of bike buyers.
-- 
+  
 ## Recommendation 
 - Focus marketing efforts on customer groups with higher bike purchase activity.
 - Offer affordable bikes, discounts, or flexible payment options to attract more customers in this group.
