@@ -16,8 +16,7 @@ To understand customer purchasing behavior and identify customer characteristics
 -	Which region has the highest bike purchase rate?
   
 ## Dashboard Interaction 
-
-<img width="800" height="427" alt="BikePurchaseAnalysisDashboardInteraction-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/dae7a41e-e9f0-4310-a5a4-295bf42ae54c" />
+<img width="800" height="427" alt="Bike-Purchase-Analysis xlsx-Excel2026-09-1217-03-10-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4a6be3c3-c98d-4f03-ab85-1c72a5eba92b" />
 
 ## Data Cleaning & Analysis Process 
 
