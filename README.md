@@ -22,7 +22,7 @@ To understand customer purchasing behavior and identify customer characteristics
 ## Data Cleaning & Analysis Process 
 
 1. Data Understanding
-- Reviewed all columns and understood what each variable represents.
+- Reviewed the dataset and created a data dictionary to understand the meaning and structure of each column before analysis.
 - Identified the objective of the analysis.
 - Defined the key questions the dataset could answer.
 
